@@ -7,6 +7,3 @@ function clickAlert() {
 
 input.addEventListener('click', clickAlert);
 }
-function addingEventListener(){
-    addingEventListener
-}
